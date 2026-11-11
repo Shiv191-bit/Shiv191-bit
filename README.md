@@ -1,7 +1,7 @@
 <div align="center">
 
 <!-- BANNER -->
-<img src="./assets/banner.png" alt="Shivam Yadav - Break. Learn. Secure." width="100%" style="border-radius:12px; margin-bottom:8px;" />
+<img src="./assets/banner.jpg" alt="Shivam Yadav - Break. Learn. Secure." width="100%" />
 
 </div>
 
